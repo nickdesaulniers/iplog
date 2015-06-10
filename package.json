@@ -1,6 +1,6 @@
 {
   "name": "iplog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Log you internal and external IP addr",
   "bin": {
     "iplog": "bin/ip.js"
