@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Log you internal and external IP addr",
   "bin": {
-    "iplog": "ip.js"
+    "iplog": "bin/ip.js"
   },
   "dependencies": {
     "colors": "^1.1.0"
