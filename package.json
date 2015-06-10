@@ -1,0 +1,29 @@
+{
+  "name": "iplog",
+  "version": "1.0.0",
+  "description": "Log you internal and external IP addr",
+  "bin": {
+    "iplog": "ip.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdesaulniers/iplog.git"
+  },
+  "keywords": [
+    "IP",
+    "address",
+    "log",
+    "addr",
+    "internal",
+    "external"
+  ],
+  "author": "Nick Desaulniers",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/nickdesaulniers/iplog/issues"
+  },
+  "homepage": "https://github.com/nickdesaulniers/iplog"
+}
