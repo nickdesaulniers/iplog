@@ -1,6 +1,6 @@
 {
   "name": "iplog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log you internal and external IP addr",
   "bin": {
     "iplog": "bin/ip.js"
@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/nickdesaulniers/iplog/issues"
   },
-  "homepage": "https://github.com/nickdesaulniers/iplog"
+  "homepage": "https://github.com/nickdesaulniers/iplog",
+  "scripts": {}
 }
